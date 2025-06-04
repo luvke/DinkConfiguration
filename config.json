@@ -99,7 +99,7 @@
     "lootWebhook": "https://discord.com/api/webhooks/1235521919466602516/GoyuBoJ2E7tU7PYtdGc1PgZwYi4f1WI-gaNnfBQrAhlnn6xRld4d5ghPE8yeqdtqSRnH",
     "notifyLeagues": true,
     "clueMinValue": 0,
-    "embedColor": "#FFF40098",
+    "embedColor": "#FFCF8C00",
     "levelSendImage": true,
     "chatPrivacy": "HIDE_SPLIT_PM",
     "deathIgnoredRegions": " ",
