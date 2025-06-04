@@ -56,7 +56,7 @@
         "GAME",
         "RUNELITE"
     ],
-    "tradeMinValue": 1000000,
+    "tradeMinValue": 1,
     "slayerPointThreshold": 0,
     "petSendImage": true,
     "groupStorageMinValue": 0,
