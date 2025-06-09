@@ -57,7 +57,7 @@
         "RUNELITE"
     ],
     "tradeMinValue": 1000000,
-    "slayerPointThreshold": 0,
+    "slayerPointThreshold": 150,
     "petSendImage": true,
     "groupStorageMinValue": 0,
     "embedFooterIcon": "https://cdn2.steamgriddb.com/icon/6c8349cc7260ae62e3b1396831a8398f.png",
