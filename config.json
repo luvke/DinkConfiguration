@@ -119,7 +119,7 @@
     "grandExchangeIncludeCancelled": false,
     "deathSafeExceptions": [],
     "groupStorageSendImage": true,
-    "levelNotifMessage": "Congratulations %USERNAME%! A new level in %SKILL% achieved.",
+    "levelNotifMessage": "Congratulations %USERNAME%! %SKILL% achieved.",
     "killCountBestTimeMessage": "%USERNAME% has defeated %BOSS% with a new personal best time of %TIME% and a completion count of %COUNT%",
     "pkWebhook": "",
     "collectionSendImage": true,
