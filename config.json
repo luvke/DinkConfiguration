@@ -128,7 +128,7 @@
     "notifyChat": false,
     "clueWebhook": "",
     "diaryEnabled": true,
-    "lootNotifMessage": "%USERNAME% has looted something shiny! Lets see what it is: \n\n%LOOT%\nFrom: %SOURCE%",
+    "lootNotifMessage": "%USERNAME% has looted: \n\n%LOOT%\nFrom: %SOURCE%",
     "chatPatterns": "You\u0027ve unlocked an emote: *\nYou\u0027ve completed the * event*\nYou have accepted * into *.\nYou will be logged out in approximately 30 minutes.*\nYou will be logged out in approximately 10 minutes.*\n",
     "deathNotifPvpMessage": "%USERNAME% has just been PKed by %PKER% for %VALUELOST% gp...",
     "groupStorageEnabled": false,
