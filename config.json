@@ -116,7 +116,7 @@
     "leaguesAreaUnlock": true,
     "lootIncludePlayer": true,
     "combatTaskMinTier": "EASY",
-    "seasonalPolicy": "ACCEPT",
+    "seasonalPolicy": "FORWARD_TO_LEAGUES",
     "grandExchangeIncludeCancelled": false,
     "deathSafeExceptions": [],
     "groupStorageSendImage": true,
