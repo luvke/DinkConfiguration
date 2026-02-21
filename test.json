@@ -103,7 +103,7 @@
     "gambleRareLoot": true,
     "tradeWebhook": "",
     "clueEnabled": true,
-    "lootWebhook": "https://dinkforwarder.vercel.app/api/filter?token\u003dsupersecret",
+    "lootWebhook": "",
     "clueMinValue": 0,
     "levelSendImage": true,
     "embedColor": "#FFCF8C00",
