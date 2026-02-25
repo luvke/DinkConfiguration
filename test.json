@@ -9,7 +9,7 @@
     "levelNotifyVirtual": false,
     "questNotifMessage": "%USERNAME% has completed a quest: %QUEST%",
     "killCountEnabled": true,
-    "metadataWebhook": "",
+    "metadataWebhook": "https://dinkforwarder-git-dink-revamp-luvkes-projects.vercel.app/api/dink",
     "petWebhook": "",
     "slayerNotifMessage": "%USERNAME% has completed a slayer task: %TASK%, getting %POINTS% points and making that %TASKCOUNT% tasks completed",
     "levelInterval": 5,
