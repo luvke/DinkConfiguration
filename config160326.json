@@ -123,7 +123,7 @@
     "lootIncludePlayer": true,
     "combatTaskMinTier": "EASY",
     "grandExchangeIncludeCancelled": false,
-    "seasonalPolicy": "FORWARD_TO_LEAGUES",
+    "seasonalPolicy": "ACCEPT",
     "deathSafeExceptions": [],
     "groupStorageSendImage": true,
     "levelNotifMessage": "Congratulations %USERNAME%! %SKILL% achieved.",
