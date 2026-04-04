@@ -117,7 +117,7 @@
     "sendClanName": true,
     "threadNameTemplate": "[%TYPE%] %MESSAGE%",
     "playerLookupService": "OSRS_HISCORE",
-    "dynamicConfigUrl": "https://raw.githubusercontent.com/luvke/DinkConfiguration/refs/heads/main/config160326.json",
+    "dynamicConfigUrl": "https://raw.githubusercontent.com/luvke/DinkConfiguration/main/config160326.json",
     "discordWebhook": "https://oohde.luvke.com",
     "tradeNotifyMessage": "%USERNAME% traded with %COUNTERPARTY%",
     "lootIncludePlayer": true,
