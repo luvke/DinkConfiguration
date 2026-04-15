@@ -157,5 +157,12 @@
     "groupStorageIncludePrice": true,
     "pkSkipFriendly": false,
     "lootRedirectPlayerKill": true,
-    "gambleEnabled": false
+    "gambleEnabled": false,
+    "leaguesRelicUnlock": true,
+    "leaguesTaskMinTier": "EASY",
+    "leaguesTaskCompletion": true,
+    "notifyLeagues": true,
+    "leaguesMasteryUnlock": true,
+    "leaguesAreaUnlock": true,
+    "leaguesSendImage": true
 }
