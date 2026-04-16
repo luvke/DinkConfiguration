@@ -159,7 +159,7 @@
     "lootRedirectPlayerKill": true,
     "gambleEnabled": false,
     "leaguesRelicUnlock": true,
-    "leaguesTaskMinTier": "EASY",
+    "leaguesTaskMinTier": "HARD",
     "leaguesTaskCompletion": true,
     "notifyLeagues": true,
     "leaguesMasteryUnlock": true,
