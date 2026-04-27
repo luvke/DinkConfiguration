@@ -60,7 +60,7 @@
     "tradeMinValue": 1000000,
     "externalSendImage": "REQUESTED",
     "slayerPointThreshold": 150,
-    "lootItemAllowlist": "Gold ring\nUnsired",
+    "lootItemAllowlist": "*echo orb\nGold ring\nUnsired",
     "petSendImage": true,
     "groupStorageMinValue": 0,
     "embedFooterIcon": "https://cdn2.steamgriddb.com/icon/6c8349cc7260ae62e3b1396831a8398f.png",
