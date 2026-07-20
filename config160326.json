@@ -72,7 +72,7 @@
     "deathNotifPvpEnabled": true,
     "gambleInterval": 100,
     "combatTaskMessage": "%USERNAME% has completed %TIER% combat task: %TASK%",
-    "notifyExternal": false,
+    "notifyExternal": true,
     "collectionLogEnabled": true,
     "grandExchangeSendImage": true,
     "speedrunPBMessage": "%USERNAME% has just beat their personal best in a speedrun of %QUEST% with a time of %TIME%",
